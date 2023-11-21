@@ -1,1 +1,1 @@
-Old project to understand springboot better. This repository should be ingnored in favour of this one: https://github.com/VadeanFlaviuAlexandru/TerraTech
+Old project to understand Spring Boot better. This repository should be ignored in favor of this one: https://github.com/VadeanFlaviuAlexandru/TerraTech
